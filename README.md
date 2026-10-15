@@ -15,7 +15,7 @@
 
 ### About
 
-I image the Earth's interior with seismic waves, and I build the computational
+I image the Earth's interior with seismic waves, and build the computational
 methods that make those images trustworthy.
 
 My work sits between classical geophysics and machine learning: wide-angle and
